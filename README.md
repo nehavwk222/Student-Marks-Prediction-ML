@@ -54,8 +54,7 @@ This project is a **machine learning web app** that predicts a student's marks b
 
 ## 👩‍💻 Author
 
-**Neha Vishwakarma**  
-Beginner in ML | Building projects for career growth  
+**Neha Vishwakarma**   
 GitHub: [@nehavwk222](https://github.com/nehavwk222)
 
 ## 📸 App Preview
