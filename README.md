@@ -60,4 +60,4 @@ GitHub: [@nehavwk222](https://github.com/nehavwk222)
 
 ## 📸 App Preview
 
-![Web App Screenshot](https://your-screenshot-link.png)
+![App Screenshot](screenshot.png)
