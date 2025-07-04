@@ -48,7 +48,7 @@ This project is a **machine learning web app** that predicts a student's marks b
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the app](https://student-marks-prediction-ml.streamlit.app)
+👉 [Live App on Streamlit](https://student-marks-prediction-ml.streamlit.app)
 
 ---
 
@@ -58,12 +58,6 @@ This project is a **machine learning web app** that predicts a student's marks b
 Beginner in ML | Building projects for career growth  
 GitHub: [@nehavwk222](https://github.com/nehavwk222)
 
----
+## 📸 App Preview
 
-## 📌 Future Plans
-
-- Add charts (matplotlib/plotly)
-- Allow dataset upload
-- Improve UI with CSS
-
----
+![Web App Screenshot](https://your-screenshot-link.png)
