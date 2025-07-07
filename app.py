@@ -31,4 +31,5 @@ if st.button("Predict Marks"):
     input_data = pd.DataFrame([[study, sleep, practice, attendance]], 
                               columns=['Study_Hours', 'Sleep_Hours', 'Practice_Questions', 'Attendance'])
     prediction = model.predict(input_data)
+    prediction = np.clip(prediction, 0, 100)  # Cap prediction between 0 and 100
     st.success(f"🎯 Predicted Marks: {prediction[0]:.2f}")
